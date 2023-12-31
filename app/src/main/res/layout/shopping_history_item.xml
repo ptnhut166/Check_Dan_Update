@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/grey_background"
+    android:layout_margin="5dp">
+    <TextView
+        android:id="@+id/order_id"
+        android:textColor="@color/black"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/order_name"
+        android:textColor="@color/black"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/order_phone"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/order_email"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/order_detail"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/order_money"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/order_address"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="abc"
+        android:layout_weight="1"/>
+
+
+
+
+
+</LinearLayout>
